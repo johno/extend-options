@@ -1,5 +1,7 @@
 # Extend Options
 
+[![Build Status](https://travis-ci.org/johnotander/extend-options.svg?branch=master)](https://travis-ci.org/johnotander/extend-options)
+
 Basic object extending for two Javascript hash objects, intended for merging provided
 options with defaults.
 
